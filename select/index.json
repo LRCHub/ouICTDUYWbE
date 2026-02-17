@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "アマツキツネ (10th Anniversary ver.) feat. 鏡音リン",
+  "base_artist": "まらしぃ",
+  "createdAt": "2026-02-17T01:41:03.719855Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アマツキツネ feat. 鏡音リン",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/01_アマツキツネ_feat._鏡音リン_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アマツキツネ",
+      "artist": "まらしぃ feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/02_アマツキツネ_まらしぃ_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アマツキツネ",
+      "artist": "まらしぃ feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/03_アマツキツネ_まらしぃ_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アマツキツネ",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/04_アマツキツネ_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アマツキツネ",
+      "artist": "鏡音リン/まらしぃ",
+      "has_synced": true,
+      "path": "select/05_アマツキツネ_鏡音リン_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アマツキツネ",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/06_アマツキツネ_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アマツキツネ Remix",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/07_アマツキツネ_Remix_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アマツキツネ",
+      "artist": "dmARTS",
+      "has_synced": false,
+      "path": "select/08_アマツキツネ_dmARTS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アマツキツネ (feat.鏡音リン)",
+      "artist": "Marasy feat. Rin Kagamine",
+      "has_synced": true,
+      "path": "select/09_アマツキツネ_(feat.鏡音リン)_Marasy_feat._Rin_Kagamine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アマツキツネ (feat.鏡音リン)",
+      "artist": "Marasy",
+      "has_synced": true,
+      "path": "select/10_アマツキツネ_(feat.鏡音リン)_Marasy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アマツキツネ (drm Remix)",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/11_アマツキツネ_(drm_Remix)_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アマツキツネ (drm Remix) [Bonus Track]",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/12_アマツキツネ_(drm_Remix)_[Bonus_Track]_まらしぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アマツキツネ",
+      "artist": "まらしぃ Feat. 鏡音リン",
+      "has_synced": false,
+      "path": "select/pl_01_アマツキツネ_まらしぃ_Feat._鏡音リン.txt"
+    }
+  ]
+}
